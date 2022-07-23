@@ -1,0 +1,5 @@
+﻿  aircraft war2.0.cpp
+D:\C++Project\aircraft wars\aircraft war2.0\aircraft war2.0\aircraft war2.0.cpp(50,27): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\C++Project\aircraft wars\aircraft war2.0\aircraft war2.0\aircraft war2.0.cpp(195,15): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+D:\C++Project\aircraft wars\aircraft war2.0\aircraft war2.0\aircraft war2.0.cpp(250,10): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  aircraft war2.0.vcxproj -> D:\C++Project\aircraft wars\aircraft war2.0\x64\Debug\aircraft war2.0.exe
